@@ -1,4 +1,4 @@
-# RKS_1800018320_AzwarSholeh
+# SKR_1800018320_AzwarSholeh
 
 Penjelasan Aplikasi : bahwa front end mengikuti sesuai dengan rancangan wireframe,workflow dan dokumentasi kebutuhan.
 
